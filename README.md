@@ -1,10 +1,22 @@
-## Holaa soy Ángela 👋
 
-🎓 Estudiante de 2ASIR
+<h1 align="center">¡Hola! 👋 Soy Ángela Pérez</h1>
 
-##Sobre mí
-💻 Aprendiendo programación
-📚 Utilizo GitHub para mis trabajos de clase
-🚀 Mejorando mis habilidades con cada proyecto
+<h3 align="center">💻 Estudiante de 2º ASIR </h3>
 
-Gracias por visitar mi perfil 🙂
+---
+
+## Sobre mí
+
+- 🎓 Estudiante de **2º de ASIR**
+- 💻 Aprendiendo sobre sistemas informáticos y redes
+- 📚 Utilizo GitHub para mis prácticas y proyectos de clase
+- 🚀 Siempre aprendiendo algo nuevo
+
+## 📂 Mis proyectos
+
+Aquí iré subiendo mis prácticas, ejercicios y proyectos de ASIR.
+
+---
+
+## Gracias por visitar mi perfil
+
